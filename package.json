@@ -1,0 +1,33 @@
+{
+  "name": "al-files-service",
+  "version": "1.0.10",
+  "description": "awardletter files service api",
+  "main": "alfilesservice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manalotoj/alfilesservice.git"
+  },
+  "keywords": [
+    "awardletter",
+    "files",
+    "filesservice",
+    "api",
+    "rest"
+  ],
+  "author": "john manaloto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manalotoj/alfilesservice/issues"
+  },
+  "homepage": "https://github.com/manalotoj/alfilesservice#readme",
+  "dependencies": {
+    "promise": "^7.0.4",
+    "request-promise": "^0.4.3"
+  },
+  "devDependencies": {
+    "oauth-wrap": "^1.0.0"
+  }
+}
